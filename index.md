@@ -38,8 +38,7 @@ Each player begins the game with an emblem with the following ability:
 - The Lands Pile is a separate zone; it is not part of your library, nor is it considered in exile or in your sideboard. Effects that interact with other zones do not affect the Lands Pile unless they specifically refer to it.
 - Because the Lands Pile is not a library, it cannot be searched, shuffled, or otherwise interacted with by effects that target libraries or cause cards to be milled.
 - Drawing from the Lands Pile only occurs at the beginning of your draw step. Card draw from spells, abilities, or any other effect always draws from your library.
-- If you are forced to draw outside of your draw step, you must draw from your library. An empty library is still a loss, even if your Lands Pile has cards remaining.
-- If you draw from the Lands Pile, you *must* play it as the first action of your main phase.
+- Having cards in your Lands Pile protects you from losing the game due to an empty library during your draw step. Outside of your draw step, drawing from your Lands Pile is not permitted — therefore being forced to draw from an empty library still leads to a loss.
 
 ---
 
