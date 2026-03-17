@@ -5,6 +5,8 @@ title: Lands Pile
 # Lands Pile
 ### A Magic: The Gathering Variant Rule
 
+> A quick intro: This is an idea I've had in my head for a couple years, and I finally took the time to write it down. I don't know if anyone else has tried anything like this (probably!) but I feel like lands are both the best and worst part of Magic, so a way to ease that pain (especially for new players) seems like a fun option.
+
 ## Overview
 
 Mana variance most often punishes players at two points in the game: early, when an insufficient land count leaves them unable to get started, and late, when drawing lands instead of spells leaves them unable to act.
