@@ -39,16 +39,19 @@ Each player begins the game with an emblem with the following ability:
 - Because the Lands Pile is not a library, it cannot be searched, shuffled, or otherwise interacted with by effects that target libraries or cause cards to be milled.
 - Drawing from the Lands Pile only occurs at the beginning of your draw step. Card draw from spells, abilities, or any other effect always draws from your library.
 - If you are forced to draw outside of your draw step, you must draw from your library. An empty library is still a loss, even if your Lands Pile has cards remaining.
+- If you draw from the Lands Pile, you *must* play it as the first action of your main phase.
 
 ---
 
-## Deckbuilding Notes
+## Deckbuilding and other Considerations
 
 The Lands Pile isn't a bonus — it's a tradeoff. Choosing to play more basics and a large Lands Pile guarantees a land when you need one, but costs you the utility that non-basic lands provide.
 
 Aside from consistent access to lands, another practical benefit is the freedom to run fewer lands in your main deck, recovering those slots for spells. How many lands you choose to run, and how many you choose to set aside in the Lands Pile, is entirely up to you.
 
 There is no mechanism for restocking the Lands Pile. This means cards from your Lands Pile may end up in your library or other zones through various game effects, therefore sleeving them differently is not allowed.
+
+The requirement to reveal and immediately play any card drawn from the Lands Pile serves as a verification mechanism. A non-basic land in the Lands Pile — whether by accident or oversight — is caught at the moment it is drawn rather than sitting undetected in hand. If a non-basic land is revealed this way, it is returned to the player's library, the library is shuffled, and the player draws from their Lands Pile instead.
 
 ---
 
@@ -66,4 +69,4 @@ There is no mechanism for restocking the Lands Pile. This means cards from your 
 - **Drawing from the Lands Pile on any draw** — narrowed to the draw step only, to reduce cognitive overhead and limit game-warping effects.
 - **Mandatory immediate play** — refined to "at the beginning of your first main phase" to map to an existing game step and prevent sequencing tricks that could take advantage of a known land draw.
 - **Treating the Lands Pile draw as a zone transfer rather than a draw** — rejected to preserve interactions with draw-based effects.
-- **Miracle-style reveal on any draw** — replaced by the requirement to immediately play the land, and the limitation that onlyyour first draw for the turn comes from the Lands Pile.
+- **Miracle-style reveal on any draw** — replaced by the requirement to immediately play the land, and the limitation that only your first draw for the turn comes from the Lands Pile.
