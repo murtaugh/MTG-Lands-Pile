@@ -5,7 +5,7 @@ title: Lands Pile
 # Lands Pile
 ### A Magic: The Gathering Variant Rule
 
-> A quick intro: This is an idea I've had in my head for a couple years, and I finally took the time to write it down. I don't know if anyone else has tried anything like this (probably!) but I feel like lands are both the best and worst part of Magic, so a way to ease that pain (especially for new players) seems like a fun option.
+> This is an idea I've had in my head for a couple years, and I finally took the time to write it down. I don't know if anyone else has tried anything like this (probably!) but I feel like lands are both the best and worst part of Magic, so a way to ease that pain (especially for new players) seems like a fun option.
 
 ## Overview
 
