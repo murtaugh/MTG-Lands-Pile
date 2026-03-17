@@ -42,8 +42,8 @@ Players draw an opening hand of 6 and proceed through the normal mulligan proces
 
 - The Lands Pile is a separate zone; it is not part of your library, nor is it considered in exile or in your sideboard. Effects that interact with other zones do not affect the Lands Pile unless they specifically refer to it.
 - Because the Lands Pile is not a library, it cannot be searched, shuffled, or otherwise interacted with by effects that target libraries or cause cards to be milled.
-- The choice to draw from your library or the Lands Pile is made each time you would draw, before the card is drawn.
-- The draw replacement may be used on any draw — your draw step, card draw from spells or abilities, or any other draw effect. (Because this is a replacement effect, the choice of which pile to draw from cannot be responded to; the draw event itself may be responded to as normal. For example: if a player wishes to mill your library in response to a draw, you may choose which pile to draw from after the mill resolves.)
+- The choice to draw from your library or the Lands Pile is made each time you would draw a card for any reason. (If your Lands Pile is empty, you must draw from your library.)
+- Because this is a replacement effect, the choice of which pile to draw from cannot be responded to; the draw event itself may be responded to as normal. (For example: if a player wishes to mill your library in response to a draw, you may choose which pile to draw from after the mill resolves.)
 
 ---
 
