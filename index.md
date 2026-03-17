@@ -18,7 +18,7 @@ Lands Pile is a variant rule that reduces the variance of mana availability. Eac
 
 Before the game begins, each player may set aside any number of basic lands from their deck as their **Lands Pile**, then shuffles it face-down. (Normal deckbuilding rules apply.) Opponents may cut the Lands Pile after it is shuffled.
 
-[**Important question**: This is meant for casual games, but do we need to determine whether or not a player hasn't mistakenly included a non-basic land in their Lands Pile?]
+> **Important question:** This is meant for casual games, but do we need to determine whether or not a player hasn't mistakenly included a non-basic land in their Lands Pile?
 
 Only cards with the basic supertype may be in the Lands Pile. This includes Snow-Covered basics and Wastes.
 
