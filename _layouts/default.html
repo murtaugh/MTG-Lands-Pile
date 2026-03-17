@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} — Lands Pile</title>
+  <link rel="preconnect" href="https://fonts.bunny.net">
+  <link href="https://fonts.bunny.net/css?family=dm-serif-display:400,400i|dm-sans:300,300i,400,500&display=swap" rel="stylesheet">
+  <style>
+	*, *::before, *::after {
+	  box-sizing: border-box;
+	  margin: 0;
+	  padding: 0;
+	}
+
+	:root {
+	  --cream: #f5f0e8;
+	  --cream-dark: #ede6d6;
+	  --ink: #1a1610;
+	  --ink-light: #4a4238;
+	  --ink-faint: #8a7e6e;
+	  --rule: #c8bfaa;
+	}
+
+	html {
+	  font-size: 18px;
+	}
+
+	body {
+	  background-color: var(--cream);
+	  color: var(--ink);
+	  font-family: 'DM Sans', sans-serif;
+	  font-weight: 300;
+	  line-height: 1.7;
+	  min-height: 100vh;
+	}
+
+	.page-wrap {
+	  max-width: 680px;
+	  margin: 0 auto;
+	  padding: 5rem 2rem 8rem;
+	}
+
+	.page-header {
+	  margin-bottom: 3rem;
+	  padding-bottom: 2rem;
+	  border-bottom: 1px solid var(--rule);
+	}
+
+	.page-header h1 {
+	  font-family: 'DM Serif Display', serif;
+	  font-weight: 400;
+	  font-size: 3rem;
+	  line-height: 1.15;
+	  color: var(--ink);
+	  margin-bottom: 0.4rem;
+	}
+
+	.last-updated {
+	  font-family: 'DM Sans', sans-serif;
+	  font-size: 0.8rem;
+	  font-weight: 300;
+	  color: var(--ink-faint);
+	  margin-top: 0.25rem;
+	}
+
+	.page-header .subtitle {
+	  font-family: 'DM Sans', sans-serif;
+	  font-style: italic;
+	  font-weight: 300;
+	  font-size: 1rem;
+	  color: var(--ink-faint);
+	}
+
+	h2 {
+	  font-family: 'DM Serif Display', serif;
+	  font-weight: 400;
+	  font-size: 1.3rem;
+	  color: var(--ink);
+	  margin-top: 2.5rem;
+	  margin-bottom: 0.75rem;
+	}
+
+	p {
+	  font-size: 1rem;
+	  margin-bottom: 1rem;
+	  color: var(--ink-light);
+	}
+
+	blockquote {
+	  margin: 1.5rem 0;
+	  padding: 1rem 1.5rem;
+	  border-left: 2px solid var(--rule);
+	  background: var(--cream-dark);
+	  font-style: italic;
+	  color: var(--ink-light);
+	}
+
+	blockquote p {
+	  margin: 0;
+	}
+
+	ul, ol {
+	  padding-left: 1.5rem;
+	  margin-bottom: 1rem;
+	}
+
+	li {
+	  margin-bottom: 0.5rem;
+	  font-size: 1rem;
+	  color: var(--ink-light);
+	}
+
+	hr {
+	  display: none;
+	}
+
+	strong {
+	  font-weight: 600;
+	  color: var(--ink);
+	}
+
+
+	@media (max-width: 600px) {
+	  .page-header h1 {
+		font-size: 2.25rem;
+	  }
+
+	  .page-wrap {
+		padding: 2.5rem 1.25rem 5rem;
+	  }
+	}
+  </style>
+</head>
+<body>
+  <div class="page-wrap">
+	<header class="page-header">
+	  <h1>Lands Pile</h1>
+	  <p class="subtitle">A Magic: The Gathering Variant Rule by <a href="https://timmurtaugh.com">@murtaugh</a></p>
+	  <p class="last-updated">Last updated {{ site.time | date: "%B %-d, %Y" }}</p>
+	</header>
+	<main class="page-content">
+	  {{ content }}
+	</main>
+  </div>
+</body>
+</html>
