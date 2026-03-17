@@ -46,3 +46,21 @@ The Lands Pile isn't a bonus — it's a tradeoff. Choosing to play more basics a
 Aside from consistent access to lands, another practical benefit is the freedom to run fewer lands in your main deck, recovering those slots for spells. How many lands you choose to run, and how many you choose to set aside in the Lands Pile, is entirely up to you.
 
 There is no mechanism for restocking the Lands Pile. This means cards from your Lands Pile may end up in your library or other zones through various game effects, therefore sleeving them differently is not allowed.
+
+---
+
+## Open Questions
+
+- Should there be a size limit on the Lands Pile? A player could theoretically build a deck with a very small library and a very large Lands Pile, cycling through their key cards quickly while guaranteeing a land every turn. Is this a fun deckbuilding challenge or a degenerate pubstomp strategy?
+
+---
+
+## Notes
+
+- **Size limit on the Lands Pile** — a cap of 10 basics in the Lands Pile was initially considered but rejected in favor of letting deckbuilding be the constraint, though this remains an open question.
+- **Face-up Lands Pile** — rejected in favor of face-down with public count. The number of cards remaining is visible; the contents are not.
+- **Opening hand of 6 with a mandatory Lands Pile draw as the 7th card** — rejected, and replaced by a normal 7-card opening hand. The first draw step covers itself under the emblem.
+- **Drawing from the Lands Pile on any draw** — narrowed to the draw step only, to reduce cognitive overhead and limit game-warping effects.
+- **Mandatory immediate play** — refined to "at the beginning of your first main phase" to map to an existing game step and prevent sequencing tricks that could take advantage of a known land draw.
+- **Treating the Lands Pile draw as a zone transfer rather than a draw** — rejected to preserve interactions with draw-based effects.
+- **Miracle-style reveal on any draw** — replaced by the requirement to immediately play the land, and the limitation that onlyyour first draw for the turn comes from the Lands Pile.
