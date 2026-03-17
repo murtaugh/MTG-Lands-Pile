@@ -15,7 +15,7 @@ Lands Pile is a variant rule that reduces the variance of mana availability. Eac
 
 ## Setup
 
-Before the game begins, each player may set aside any number of basic lands from their deck as their **Lands Pile**, then shuffles it face-down. (Normal deckbuilding rules apply.) Opponents may cut the Lands Pile after it is shuffled.
+Before the game begins, each player may set aside any number of basic lands from their deck as their **Lands Pile**, then shuffles it face-down. (Normal deckbuilding rules apply.) Opponents may cut the Lands Pile after it's shuffled.
 
 Only cards with the basic supertype may be in the Lands Pile. This includes Snow-Covered basics and Wastes.
 
@@ -46,6 +46,8 @@ The Lands Pile isn't a bonus — it's a tradeoff. Choosing to play more basics a
 Aside from consistent access to lands, another practical benefit is the freedom to run fewer lands in your main deck, recovering those slots for spells. How many lands you choose to run, and how many you choose to set aside in the Lands Pile, is entirely up to you.
 
 There is no mechanism for restocking the Lands Pile. This means cards from your Lands Pile may end up in your library or other zones through various game effects, therefore sleeving them differently is not allowed.
+
+If you are forced to draw outside of your draw step, you must draw from your library. An empty library is still a loss, even if your Lands Pile has cards remaining.
 
 ---
 
