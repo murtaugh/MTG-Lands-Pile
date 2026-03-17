@@ -51,6 +51,6 @@ Players draw an opening hand of 6 and proceed through the normal mulligan proces
 
 The Lands Pile is not a bonus — it is a tradeoff. Choosing to play more basics guarantees a land when you need one, but costs you the utility that non-basic lands provide.
 
-There is no mechanism for restocking the Lands Pile. This means cards from your Lands Pile may end up in your library or other zones through various game effects, therefore sleeving them differently is not allowed.
+Aside from consistent access to lands, another practical benefit is the freedom to run fewer lands in your main deck, recovering those slots for spells. How many lands you choose to run, and how many you choose to set aside in the Lands Pile is entirely up to you.
 
-The practical benefit is the freedom to run fewer lands in your main deck — typically 8 to 10 fewer than usual — recovering those slots for spells. This is the intended tradeoff and the core of the variant's design.
+There is no mechanism for restocking the Lands Pile. This means cards from your Lands Pile may end up in your library or other zones through various game effects, therefore sleeving them differently is not allowed.
