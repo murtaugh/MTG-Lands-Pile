@@ -52,7 +52,7 @@ Aside from consistent access to lands, another practical benefit is the freedom 
 
 There is no mechanism for restocking the Lands Pile. This means cards from your Lands Pile may end up in your library or other zones through various game effects, therefore sleeving them differently is not allowed.
 
-The requirement to reveal and immediately play any card drawn from the Lands Pile serves as a verification mechanism. A non-basic land in the Lands Pile — whether by accident or oversight — is caught at the moment it is drawn rather than sitting undetected in hand. If a non-basic land is revealed this way, it is returned to the player's library, the library is shuffled, and the player draws from their Lands Pile instead.
+The requirement to reveal and immediately play any card drawn from the Lands Pile serves as a verification mechanism. A non-basic land in the Lands Pile — whether by accident or oversight — is caught at the moment it is drawn rather than sitting undetected in hand. If a non-basic land is revealed this way, it is returned to the player's library, the library is shuffled, and the player re-draws from their Lands Pile.
 
 ---
 
