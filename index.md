@@ -57,7 +57,7 @@ The requirement to reveal and immediately play any card drawn from the Lands Pil
 ## Open Questions
 
 - Should there be a size limit on the Lands Pile? A player could theoretically build a deck with a very small library and a very large Lands Pile, cycling through their key cards quickly while guaranteeing a land every turn. Is this a fun deckbuilding challenge or a degenerate pubstomp strategy?
-- Should lands from the Lands Pile come in to play tapped? Would this pvent overly-fast starts?
+- Should lands from the Lands Pile enter tapped? Would this prevent overly-fast starts?
 
 ---
 
