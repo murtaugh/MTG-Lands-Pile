@@ -11,15 +11,15 @@ title: Lands Pile
 
 Mana variance most often punishes players at two points in the game: early, when an insufficient land count leaves them unable to get started, and late, when drawing lands instead of spells leaves them unable to act.
 
-Lands Pile is a variant rule meant for casual play that reduces the variance of mana availability. Each player has a face-down secondary draw pile of basic lands alongside their library, and may choose to draw from it at the beginning of their draw step.
+**Lands Pile** is a variant ruleset meant for casual play that reduces the variance of mana availability. Each player has a face-down secondary draw pile of basic lands alongside their library, and may choose to draw from it at the beginning of their draw step.
 
-This variant is intended for bracket 1 play, if I may use that as a shorthand for the most casual games in any format. It's also worth noting that the Lands Pile is optional by design: if you're playing a more efficient deck against a casual one, choosing not to use it is a reasonable way to level the field.
+This variant is intended for bracket 1 play, if I may use that as a shorthand for the most casual games in any format. It's also worth noting that using the Lands Pile is optional by design: if you're playing a more efficient deck against a casual one, choosing not to use it is a reasonable way to level the field.
 
 ---
 
 ## Setup
 
-Before the game begins, each player may set aside any number of basic lands from their deck as their **Lands Pile**, then shuffles it face-down. (Normal deckbuilding rules apply.) Opponents may cut the Lands Pile after it's shuffled.
+Before the game begins, each player may set aside any number of basic lands from their deck as their Lands Pile, then shuffles it face-down. (Normal deckbuilding rules apply.) Opponents may cut the Lands Pile after it's shuffled.
 
 Only cards with the basic supertype may be in the Lands Pile. This includes Snow-Covered basics and Wastes.
 
